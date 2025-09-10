@@ -21,4 +21,6 @@ Additionally I gave Copilot the task of anaylzing the same speech, and as pertai
 
 ---
 
+# Reflection
+
 
