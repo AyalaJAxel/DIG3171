@@ -18,3 +18,7 @@ Firstly, Voyant provided an image off of Teddy Roosevelt's 1st Annual Message De
 Additionally I gave Copilot the task of anaylzing the same speech, and as pertaining to the subject matter of the speech I asked a question regarding what it believes drove his speech, resulting in this.
 
 ![Copilot Response](Copilot.PNG)
+
+---
+
+
