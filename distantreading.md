@@ -21,6 +21,7 @@ Additionally I gave Copilot the task of anaylzing the same speech, and as pertai
 
 ---
 
-# Reflection
+# What do the results show?
 
+These very different results are very telling of their respective functions. They each do the job of "summarizing" though they each do it in very different ways. Voyant does summarizing by filtering a select amount of words based on how often they appear in text, this method helps highlight the key ideas of a text based on what subject matter is shown to be most frequent. This comes with a huge tradeoff however, leaving the user to figure out the meaning and impact of the words for themselves. On the other hand, Copilot is much more thorough, especially with the GPT mod, it provides a detailed response to more direct questions. The downside is that the user needs to ask the questions, which leaves out details that perhaps the AI cannot pick up on its own. These could be good collaboratively as a means to paint the whole picture.
 
